@@ -20,3 +20,5 @@ curl -X POST -H 'Content-Type:application/json' localhost:5000/post -d '{"text":
 うちすももももももももの
 ちすもももももももものう
 ```
+
+`ngram`関数を読めるものじゃなくなった
